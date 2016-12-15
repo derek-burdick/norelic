@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "fQJ+13Fc/OjWGqCSDI1nTPgI2L4=",
+			"path": "github.com/newrelic/go-agent",
+			"revision": "9191db23fd989f86284ac6fe865c88241f57826d",
+			"revisionTime": "2016-08-08T17:13:03Z"
+		}
+	],
+	"rootPath": "github.com/derek-burdick/norelic"
+}
