@@ -13,7 +13,7 @@ type transaction struct {
 	R *http.Request
 }
 
-func Newapplication() newrelic.Application {
+func NewApplication() newrelic.Application {
 	return &application{}
 }
 
